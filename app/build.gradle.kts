@@ -60,7 +60,6 @@ dependencies {
 
     //Jetpack compose
     implementation("androidx.activity:activity-compose:1.9.0")
-    implementation("androidx.glance:glance-material3:1.3.0")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
 
     //Retrofit y Gson Converter
